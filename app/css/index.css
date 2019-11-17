@@ -1,0 +1,12 @@
+body {
+	flex-direction: column;
+}
+
+img {
+	margin: 3%;
+	width: 30%;
+}
+
+html, body {
+	height: 100%;
+}

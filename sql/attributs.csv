@@ -1,0 +1,33 @@
+année,date,1
+genre,string,1
+couleur,string,1
+condition,string,1
+rénovation,date,2
+genre,string,2
+chambres,int,2
+toilettes,int,2
+animaux permis,boolean,2
+disponible,date,2
+marque,string,3
+couleur,string,3
+usage,int,3
+genre,string,3
+système de navigation,boolean,3
+titre,string,4
+auteur,string,4
+année de publication,date,4
+langue,string,4
+average_rating,float,4
+ratings_count,int,4
+ratings_1,int,4
+ratings_2,int,4
+ratings_3,int,4
+ratings_4,int,4
+ratings_5,int,4
+genre,string,5
+sexe,string,5
+taille,string,5
+textile,string,5
+marque,string,5
+usage,int,5
+couleur,string,5

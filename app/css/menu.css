@@ -1,0 +1,12 @@
+.btn {
+	width: 30%;
+	margin: 1%;
+}
+
+.modal-body {
+	text-align: center;
+}
+
+html, body {
+	height: 100%;
+}

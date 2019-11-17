@@ -1,0 +1,22 @@
+body {
+	display: flex;
+	align-items: center;
+}
+
+.container {
+	padding: 3em;
+	overflow-y: auto;
+}
+
+.back {
+	margin: 1em;
+}
+
+.loc {
+	display: flex;
+    align-items: center;
+}
+
+.loc > button {
+	width: 100%;
+}
